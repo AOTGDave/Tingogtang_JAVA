@@ -1,0 +1,5 @@
+1 2 3 
+0 4 5 
+7 8 6 
+Solution: 3, RRD
+States seen: 7
